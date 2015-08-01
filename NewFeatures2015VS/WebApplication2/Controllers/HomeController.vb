@@ -32,8 +32,8 @@ Public Class HomeController
 
         Dim nuevo As inversionEspecialNueva
 
-        'Dim administradorTransacciones As New AdministradorTransacciones
-        'administradorTransacciones.GenereNuevaTransaccion()
+        Dim administradorTransacciones As New AdministradorTransacciones
+        administradorTransacciones.GenereNuevaTransaccion()
 
         Return View()
     End Function
