@@ -9,6 +9,13 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Negocio", "Negocio\Negocio.
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Negocio_Tests", "Negocio_Tests\Negocio_Tests.vbproj", "{A0A350E0-9E30-4E6A-96DA-162A6644EEED}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PruebasdeCarga_Tests", "PruebasdeCarga_Tests\PruebasdeCarga_Tests.vbproj", "{AF8D9DF6-D165-4A10-8C07-3779B2083E0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8557AB8B-DF1F-43E5-BDFF-282567828258}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +34,10 @@ Global
 		{A0A350E0-9E30-4E6A-96DA-162A6644EEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0A350E0-9E30-4E6A-96DA-162A6644EEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0A350E0-9E30-4E6A-96DA-162A6644EEED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8D9DF6-D165-4A10-8C07-3779B2083E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8D9DF6-D165-4A10-8C07-3779B2083E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8D9DF6-D165-4A10-8C07-3779B2083E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8D9DF6-D165-4A10-8C07-3779B2083E0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
