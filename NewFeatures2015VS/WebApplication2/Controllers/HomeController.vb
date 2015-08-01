@@ -25,7 +25,7 @@ Public Class HomeController
 
 
     Function AgregueElemento(item As Inversion)
-        Dim elemento As New AdministradorInversiones
+        Dim elemento As New AdministradorInversionesNuevas
         elemento.AgregueInversionConValidaciones(item)
 
         Dim datoGuadar As ICollection(Of Inversion)
