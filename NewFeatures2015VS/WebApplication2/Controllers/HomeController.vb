@@ -1,4 +1,7 @@
-﻿Imports Negocio
+﻿Imports Microsoft.AspNet.Identity
+Imports Microsoft.CodeDom.Providers
+Imports System.Collections
+Imports Negocio
 
 Public Class HomeController
     Inherits Controller

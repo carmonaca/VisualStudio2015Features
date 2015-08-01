@@ -7,3 +7,12 @@ c:\users\adri\documents\visual studio 2015\Projects\WebApplication2\Negocio\obj\
 c:\users\adri\documents\visual studio 2015\Projects\WebApplication2\Negocio\obj\Debug\Negocio.dll
 c:\users\adri\documents\visual studio 2015\Projects\WebApplication2\Negocio\obj\Debug\Negocio.xml
 c:\users\adri\documents\visual studio 2015\Projects\WebApplication2\Negocio\obj\Debug\Negocio.pdb
+I:\Repositorio Visual Studio 2015\VisualStudio2015Features\NewFeatures2015VS\Negocio\bin\Debug\Negocio.dll
+I:\Repositorio Visual Studio 2015\VisualStudio2015Features\NewFeatures2015VS\Negocio\bin\Debug\Negocio.pdb
+I:\Repositorio Visual Studio 2015\VisualStudio2015Features\NewFeatures2015VS\Negocio\bin\Debug\Negocio.xml
+I:\Repositorio Visual Studio 2015\VisualStudio2015Features\NewFeatures2015VS\Negocio\obj\Debug\Negocio.vbprojResolveAssemblyReference.cache
+I:\Repositorio Visual Studio 2015\VisualStudio2015Features\NewFeatures2015VS\Negocio\obj\Debug\Negocio.Resources.resources
+I:\Repositorio Visual Studio 2015\VisualStudio2015Features\NewFeatures2015VS\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+I:\Repositorio Visual Studio 2015\VisualStudio2015Features\NewFeatures2015VS\Negocio\obj\Debug\Negocio.dll
+I:\Repositorio Visual Studio 2015\VisualStudio2015Features\NewFeatures2015VS\Negocio\obj\Debug\Negocio.xml
+I:\Repositorio Visual Studio 2015\VisualStudio2015Features\NewFeatures2015VS\Negocio\obj\Debug\Negocio.pdb
