@@ -8,6 +8,7 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
         Dim elementos As List(Of Integer) = {10, 20, 31, 40}.ToList()
 
 
+        ' LINQ AND LAMBDA
         Dim filtroItems = elementos.Where(Function(i) i > 30)
 
         Dim inversionesSinElementos = filtroItems.ToList()
