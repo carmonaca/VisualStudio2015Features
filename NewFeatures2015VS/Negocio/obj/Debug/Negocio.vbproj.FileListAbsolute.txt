@@ -1,0 +1,9 @@
+c:\users\adri\documents\visual studio 2015\Projects\WebApplication2\Negocio\bin\Debug\Negocio.dll
+c:\users\adri\documents\visual studio 2015\Projects\WebApplication2\Negocio\bin\Debug\Negocio.pdb
+c:\users\adri\documents\visual studio 2015\Projects\WebApplication2\Negocio\bin\Debug\Negocio.xml
+c:\users\adri\documents\visual studio 2015\Projects\WebApplication2\Negocio\obj\Debug\Negocio.vbprojResolveAssemblyReference.cache
+c:\users\adri\documents\visual studio 2015\Projects\WebApplication2\Negocio\obj\Debug\Negocio.Resources.resources
+c:\users\adri\documents\visual studio 2015\Projects\WebApplication2\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+c:\users\adri\documents\visual studio 2015\Projects\WebApplication2\Negocio\obj\Debug\Negocio.dll
+c:\users\adri\documents\visual studio 2015\Projects\WebApplication2\Negocio\obj\Debug\Negocio.xml
+c:\users\adri\documents\visual studio 2015\Projects\WebApplication2\Negocio\obj\Debug\Negocio.pdb
