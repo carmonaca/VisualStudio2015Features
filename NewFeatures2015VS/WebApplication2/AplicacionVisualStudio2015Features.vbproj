@@ -262,6 +262,7 @@
     <None Include="Scripts\jquery-2.1.4.intellisense.js" />
     <Content Include="Scripts\jquery-2.1.4.js" />
     <Content Include="Scripts\jquery-2.1.4.min.js" />
+    <Content Include="Scripts\NuevoJavascript.js" />
     <Content Include="Views\Account\_ExternalLoginsListPartial.vbhtml" />
     <Content Include="Views\Account\ConfirmEmail.vbhtml" />
     <Content Include="Views\Account\ExternalLoginConfirmation.vbhtml" />

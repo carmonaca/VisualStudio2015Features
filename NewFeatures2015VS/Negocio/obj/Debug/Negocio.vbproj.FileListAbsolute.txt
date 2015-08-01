@@ -15,4 +15,3 @@ I:\Repositorio Visual Studio 2015\VisualStudio2015Features\NewFeatures2015VS\Neg
 I:\Repositorio Visual Studio 2015\VisualStudio2015Features\NewFeatures2015VS\Negocio\obj\Debug\Negocio.dll
 I:\Repositorio Visual Studio 2015\VisualStudio2015Features\NewFeatures2015VS\Negocio\obj\Debug\Negocio.xml
 I:\Repositorio Visual Studio 2015\VisualStudio2015Features\NewFeatures2015VS\Negocio\obj\Debug\Negocio.pdb
-I:\Repositorio Visual Studio 2015\VisualStudio2015Features\NewFeatures2015VS\Negocio\obj\Debug\Negocio.vbprojResolveAssemblyReference.cache

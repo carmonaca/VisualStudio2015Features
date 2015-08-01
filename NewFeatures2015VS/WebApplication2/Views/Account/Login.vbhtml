@@ -6,7 +6,7 @@ End Code
 <h2>@ViewBag.Title.</h2>
 <div class="row">
     <div class="col-md-8">
-        <section id="loginForm">
+        <section id="loginForm" >
             @Using Html.BeginForm("Login", "Account", New With { .ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, New With {.class = "form-horizontal", .role = "form"})
                 @Html.AntiForgeryToken()
                 @<text>
@@ -19,7 +19,7 @@ End Code
                         @Html.TextBoxFor(Function(m) m.Email, New With {.class = "form-control"})
                         @Html.ValidationMessageFor(Function(m) m.Email, "", New With {.class = "text-danger"})
                     </div>
-                </div>
+                </div> 
                 <div class="form-group">
                     @Html.LabelFor(Function(m) m.Password, New With {.class = "col-md-2 control-label"})
                     <div class="col-md-10">
@@ -58,5 +58,5 @@ End Code
     </div>
 </div>
 @Section Scripts
-    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/jqueryval") 
 End Section
