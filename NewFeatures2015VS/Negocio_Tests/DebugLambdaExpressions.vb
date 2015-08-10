@@ -13,6 +13,7 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
 
         Dim inversionesSinElementos = filtroItems.ToList()
 
+        Dim filtroEjemploParaDebug = filtroItems.Where(Function(i) i > 10).ToList
 
     End Sub
 
