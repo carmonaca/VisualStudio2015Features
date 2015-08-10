@@ -10,10 +10,6 @@ Imports Negocio
         Dim interesSimple As Decimal = 0.25
         Dim plazoInversion As Decimal = 0.15
 
-
-
-
-
         Dim resultadoObtenido As Decimal
 
         resultadoObtenido = CalculadorDeInteresInversion.ObtenerCalculoInteresesNetos(interesSimple, plazoInversion)
