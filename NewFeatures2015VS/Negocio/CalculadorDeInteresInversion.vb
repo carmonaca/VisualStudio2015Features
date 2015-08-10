@@ -1,4 +1,9 @@
-﻿Public Module CalculadorDeInteresInversion
+﻿
+
+
+
+
+Public Module CalculadorDeInteresInversion
     Public Function ObtenerCalculoInteresesNetos(interesSimple As Decimal, plazoInversion As Decimal) As Decimal
 
 
