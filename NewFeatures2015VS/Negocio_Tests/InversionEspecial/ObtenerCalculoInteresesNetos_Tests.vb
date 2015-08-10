@@ -10,7 +10,6 @@ Imports Negocio
         Dim interesSimple As Decimal = 0.25
         Dim plazoInversion As Decimal = 0.15
 
-        Dim plazoNuevoBasura As Decimal = 0.26D
 
         Dim resultadoObtenido As Decimal
 
