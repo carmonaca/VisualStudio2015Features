@@ -10,7 +10,7 @@ Imports Model
 
         Dim resultadoEsperado = 0.12
         Dim interesSimple As Decimal = 0.25
-        Dim plazoInversion As Decimal = 0.15
+        Dim plazoInversion As Decimal = 0.18
 
         Dim resultadoObtenido As Decimal
 
