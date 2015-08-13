@@ -92,6 +92,7 @@ I:\Repositorio Visual Studio 2015\VisualStudio2015Features\NewFeatures2015VS\Web
 I:\Repositorio Visual Studio 2015\VisualStudio2015Features\NewFeatures2015VS\WebApplication2\bin\roslyn\vbc.exe
 I:\Repositorio Visual Studio 2015\VisualStudio2015Features\NewFeatures2015VS\WebApplication2\bin\roslyn\VBCSCompiler.exe
 I:\Repositorio Visual Studio 2015\VisualStudio2015Features\NewFeatures2015VS\WebApplication2\bin\roslyn\VBCSCompiler.exe.config
+I:\Repositorio Visual Studio 2015\VisualStudio2015Features\NewFeatures2015VS\WebApplication2\bin\WebApplication2.dll.config
 I:\Repositorio Visual Studio 2015\VisualStudio2015Features\NewFeatures2015VS\WebApplication2\bin\WebApplication2.dll
 I:\Repositorio Visual Studio 2015\VisualStudio2015Features\NewFeatures2015VS\WebApplication2\bin\WebApplication2.pdb
 I:\Repositorio Visual Studio 2015\VisualStudio2015Features\NewFeatures2015VS\WebApplication2\bin\WebApplication2.xml

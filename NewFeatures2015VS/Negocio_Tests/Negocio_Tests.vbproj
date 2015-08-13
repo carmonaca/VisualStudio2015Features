@@ -120,6 +120,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Model\Model.vbproj">
+      <Project>{c7728e5f-1715-4a51-a1a0-e9e6acead09e}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Negocio\Negocio.vbproj">
       <Project>{BB2F0623-ABA8-4C1C-8A71-6362405F5653}</Project>
       <Name>Negocio</Name>
