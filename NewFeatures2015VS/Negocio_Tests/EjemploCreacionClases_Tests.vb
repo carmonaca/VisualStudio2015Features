@@ -9,7 +9,7 @@ Public Class EjemploCreacionClases_Tests
 
 
     <TestMethod>
-    Public Sub EsPosibleConfirmarDeposito_CasoBasico_Si()
+    Public Sub EsPosibleReintentarPagoMovil_CasoBasico_Si()
 
 
 
