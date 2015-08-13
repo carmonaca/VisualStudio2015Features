@@ -1,7 +1,5 @@
-﻿Imports System.Text
-Imports Microsoft.VisualStudio.TestTools.UnitTesting
+﻿Imports Model
 Imports Negocio
-Imports Model
 
 
 <TestClass()> Public Class ObtenerCalculoInteresesNetos_Tests
