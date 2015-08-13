@@ -14,7 +14,7 @@ Imports Model
 
         Dim resultadoObtenido As Decimal
 
-        Dim elemento As New Estudiante With {.Descripcion = Nothing, .Id = 1, .Nombre = "Nombre"}
+        Dim elemento As New Estudiante 'With {.Descripcion = Nothing, .Id = 1, .Nombre = "Nombre"}
 
         elemento = Nothing
 
