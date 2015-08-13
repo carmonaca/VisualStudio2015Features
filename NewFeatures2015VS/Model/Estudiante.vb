@@ -6,5 +6,5 @@
 
     Public Property Descripcion As Integer?
 
-    'Public Property CentroEducativo As CentroEducativo?
+    Public Property CentroEducativo As CentroEducativo
 End Class
