@@ -24,3 +24,4 @@ C:\Users\carmonaca\Source\Repos\VisualStudio2015Features\NewFeatures2015VS\Negoc
 C:\Users\carmonaca\Source\Repos\VisualStudio2015Features\NewFeatures2015VS\Negocio\obj\Debug\Negocio.dll
 C:\Users\carmonaca\Source\Repos\VisualStudio2015Features\NewFeatures2015VS\Negocio\obj\Debug\Negocio.xml
 C:\Users\carmonaca\Source\Repos\VisualStudio2015Features\NewFeatures2015VS\Negocio\obj\Debug\Negocio.pdb
+C:\Users\carmonaca\Source\Repos\VisualStudio2015Features\NewFeatures2015VS\Negocio\obj\Debug\Negocio.vbprojResolveAssemblyReference.cache
