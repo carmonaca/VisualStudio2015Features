@@ -65,7 +65,6 @@
   <ItemGroup>
     <Compile Include="AdministradorTransacciones.vb" />
     <Compile Include="CalculadorDeInteresInversion.vb" />
-    <Compile Include="Class1.vb" />
     <Compile Include="inversionEspecial.vb" />
     <Compile Include="inversionEspecialNueva.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />

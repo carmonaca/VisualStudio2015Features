@@ -13,17 +13,10 @@ Imports Model
         Dim plazoInversion As Decimal = 0.18
 
         Dim resultadoObtenido As Decimal
-
         Dim elemento As New Estudiante 'With {.Descripcion = Nothing, .Id = 1, .Nombre = "Nombre"}
-
         elemento = Nothing
-
         Dim nombre = elemento?.Descripcion?.ToString()
-
-
-
         resultadoObtenido = CalculadorDeInteresInversion.ObtenerCalculoInteresesNetos(interesSimple, plazoInversion)
-
         Assert.AreEqual(resultadoEsperado, resultadoObtenido)
 
     End Sub
