@@ -15,3 +15,7 @@
 		--	Propiedades nullable
 
 
+
+
+		Descripción: Un pago móvil se puede confirmar si está autorizado y no ha sido notificado.
+
