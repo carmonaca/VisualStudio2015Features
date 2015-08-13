@@ -83,6 +83,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DebugLambdaExpressions.vb" />
+    <Compile Include="EjemploCreacionClases_Tests.vb" />
     <Compile Include="InversionEspecial\ObtenerCalculoInteresesNetos_Tests.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
