@@ -1,5 +1,6 @@
 ﻿Imports System.Text
 Imports Microsoft.VisualStudio.TestTools.UnitTesting
+Imports NegocioMonedero
 
 <TestClass()>
 Public Class EjemploCreacionClases_Tests
@@ -17,7 +18,7 @@ Public Class EjemploCreacionClases_Tests
 
         'Dim validadorPagos As New ReintentarPagoMovil
 
-        'Dim elResultadoObtenido = validadorPagos.EsPosibleReintentarElPago(reintentos)
+        'Dim elResultadoObtenido As Boolean = validadorPagos.EsPosibleReintentarElPago(reintentos)
 
         'Assert.AreEqual(elResultadoEsperado, elResultadoObtenido)
 
