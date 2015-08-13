@@ -6,7 +6,7 @@ Imports Negocio
 
     <TestMethod()> Public Sub ObtenerCalculoInteresesNetos_EscenarioRedondeo_DatosRedondeoHaciaDigitoMenor()
 
-        Dim resultadoEsperado = 0.0375D
+        Dim resultadoEsperado = 0.045D
         Dim interesSimple As Decimal = 0.25
         Dim plazoInversion As Decimal = 0.18
 
