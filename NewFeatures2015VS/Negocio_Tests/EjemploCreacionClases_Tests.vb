@@ -1,6 +1,5 @@
 ﻿Imports System.Text
 Imports Microsoft.VisualStudio.TestTools.UnitTesting
-Imports NegocioMonedero
 
 <TestClass()>
 Public Class EjemploCreacionClases_Tests
@@ -14,7 +13,7 @@ Public Class EjemploCreacionClases_Tests
         'Dim elResultadoEsperado As Boolean = True
 
         'Dim reintentos As Integer = 0
-        'Dim validadorPagos As New ReintentarPagoMovil
+        'Dim validadorPagos As New ValidadorReintentoDePagoMovil
         'Dim elResultadoObtenido As Boolean
         'elResultadoObtenido = validadorPagos.EsPosibleReintentarElPago(reintentos)
 
