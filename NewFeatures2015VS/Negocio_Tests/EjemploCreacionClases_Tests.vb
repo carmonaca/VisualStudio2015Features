@@ -20,7 +20,7 @@ Public Class EjemploCreacionClases_Tests
         'Assert.AreEqual(elResultadoEsperado, elResultadoObtenido)
 
 
-        'Dim elementoNuevo As New Empleado With {.Nombre = "Juanito", .Edad = 2, .Ciudad = "San José",Activo = True,Salario=100.00D}
+        'Dim elementoNuevo As New Empleado With {.Nombre = "Juanito", .Edad = 2, .Ciudad = "San José",.Activo = True,.Salario=100.00D}
     End Sub
 
 
