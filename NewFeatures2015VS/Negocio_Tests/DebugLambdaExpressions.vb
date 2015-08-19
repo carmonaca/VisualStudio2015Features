@@ -16,7 +16,9 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
         Dim filtroEjemploParaDebug = filtroItems.Where(Function(i) i > 10).ToList
 
 
-        Dim numerosFiltrados = From elemento In elementos Where elemento > 30 Select elemento
+        Dim numerosFiltrados = From elemento In elementos
+                               Where elemento > 30 'Comentario de ejemplo
+                               Select elemento
 
     End Sub
 
