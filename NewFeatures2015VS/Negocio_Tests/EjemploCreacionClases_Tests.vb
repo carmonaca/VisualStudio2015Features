@@ -24,6 +24,14 @@ Public Class EjemploCreacionClases_Tests
 
 
 
+        ''*****Replace string in cadenas
+        Dim edad As Integer = 7
+        Dim nombre As String = "Juan Perez"
+
+
+
+
+
     End Sub
 
 
