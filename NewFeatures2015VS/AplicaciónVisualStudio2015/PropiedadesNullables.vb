@@ -11,8 +11,9 @@ Module PropiedadesNullables
 
         'estudiante = as new Estudiante
         'estudiante.CentroEducativo = Nothing
+        '
 
-        If String.IsNullOrEmpty(estudiante?.Nombre) Then
+        If String.IsNullOrEmpty(estudiante.Nombre) Then
             Console.WriteLine("Nombre de estudiante sin contenido ** PRUEBA EXITOSA!!")
             Console.ReadLine()
         End If
