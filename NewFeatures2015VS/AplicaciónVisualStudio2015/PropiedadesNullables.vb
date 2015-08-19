@@ -9,14 +9,35 @@ Module PropiedadesNullables
         Dim estudiante As Estudiante
         estudiante = Nothing
 
-        'estudiante = as new Estudiante
+        estudiante = New Estudiante With {.Id = 1,
+                                         .CentroEducativo = New CentroEducativo _
+                                                      With {.CantidadEstudiantes = 100}}
+
         'estudiante.CentroEducativo = Nothing
         '
 
-        If String.IsNullOrEmpty(estudiante.Nombre) Then
-            Console.WriteLine("Nombre de estudiante sin contenido ** PRUEBA EXITOSA!!")
-            Console.ReadLine()
+
+        If estudiante IsNot Nothing AndAlso estudiante.CentroEducativo IsNot Nothing AndAlso
+                              estudiante.CentroEducativo.CantidadEstudiantes >= 100 Then
+            Console.WriteLine("Validación LARGA cantidad estudiantes")
         End If
+
+        If estudiante?.CentroEducativo?.CantidadEstudiantes >= 100 Then
+            Console.WriteLine("Validación CORTA cantidad estudiantes")
+        End If
+
+        Console.Read()
+        'If estudiante IsNot Nothing AndAlso estudiante.Id >= 100 Then
+        '    Console.WriteLine("Validación larga")
+        'End If
+
+
+        'If estudiante?.Id >= 100 Then
+        '    Console.WriteLine("Validación corta")
+        'End If
+
+
+
 
 
 
