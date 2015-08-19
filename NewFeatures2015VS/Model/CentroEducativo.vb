@@ -8,5 +8,7 @@ Public Class CentroEducativo
 
     Public Property Direccion As String
 
+    Public Property CantidadEstudiantes As Integer
+
 
 End Class
