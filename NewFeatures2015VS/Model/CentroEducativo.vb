@@ -9,6 +9,7 @@ Public Class CentroEducativo
     Public Property Direccion As String
 
     Public Property CantidadEstudiantes As Integer
+    Public Property Mensualidad As Decimal
 
 
 End Class

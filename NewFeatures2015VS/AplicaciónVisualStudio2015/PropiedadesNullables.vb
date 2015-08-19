@@ -11,7 +11,10 @@ Module PropiedadesNullables
 
         estudiante = New Estudiante With {.Id = 1,
                                          .CentroEducativo = New CentroEducativo _
-                                                      With {.CantidadEstudiantes = 100}}
+                                                      With {.CantidadEstudiantes = 100,
+                                                      .Nombre = "Centro Educativo A",
+                                                      .Mensualidad = 1000000
+                                                             }}
 
         'estudiante.CentroEducativo = Nothing
         '
@@ -36,6 +39,21 @@ Module PropiedadesNullables
         '    Console.WriteLine("Validación corta")
         'End If
 
+        'Dim mensaje As String
+
+        'mensaje = String.Format("El estudiante con id {0} asiste al centro educativo
+        '                          {1} y su mensualidad es de {2:####.##} ", estudiante.Id,
+        '                        estudiante.CentroEducativo.Nombre, estudiante.CentroEducativo.Mensualidad)
+
+        'Console.WriteLine(String.Format("Mensaje LARGO {0}", mensaje))
+
+        'mensaje = $"El estudiante con id {estudiante.Id} asiste al centro educativo
+        '                          {estudiante.CentroEducativo.Nombre} y su mensualidad 
+        '                          es de {estudiante.CentroEducativo.Mensualidad:####.##}"
+
+        'Console.WriteLine($"Mensaje CORTO {mensaje}")
+
+        'Console.Read()
 
 
 
