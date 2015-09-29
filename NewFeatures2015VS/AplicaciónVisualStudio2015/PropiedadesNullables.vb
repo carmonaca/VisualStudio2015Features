@@ -16,17 +16,21 @@ Module PropiedadesNullables
                                                       .Mensualidad = 1000000
                                                              }}
 
-        'estudiante.CentroEducativo = Nothing
+        estudiante.CentroEducativo = Nothing
         '
 
 
         If estudiante IsNot Nothing AndAlso estudiante.CentroEducativo IsNot Nothing AndAlso
                               estudiante.CentroEducativo.CantidadEstudiantes >= 100 Then
             Console.WriteLine("Validación LARGA cantidad estudiantes")
+        Else
+            Console.WriteLine("Validación CORTA nulos")
         End If
 
         If estudiante?.CentroEducativo?.CantidadEstudiantes >= 100 Then
             Console.WriteLine("Validación CORTA cantidad estudiantes")
+        Else
+            Console.WriteLine("Validación CORTA nulos")
         End If
 
         Console.Read()
