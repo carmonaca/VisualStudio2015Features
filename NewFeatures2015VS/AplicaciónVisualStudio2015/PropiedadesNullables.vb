@@ -24,7 +24,7 @@ Module PropiedadesNullables
                               estudiante.CentroEducativo.CantidadEstudiantes >= 100 Then
             Console.WriteLine("Validación LARGA cantidad estudiantes")
         Else
-            Console.WriteLine("Validación CORTA nulos")
+            Console.WriteLine("Validación LARGA nulos")
         End If
 
         If estudiante?.CentroEducativo?.CantidadEstudiantes >= 100 Then
